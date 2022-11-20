@@ -1,6 +1,8 @@
 # Friends
 
+```elixir
 {:doc, "https://hexdocs.pm/ecto/3.8.2/getting-started.html"}
+```
 
 ## Installation
 
